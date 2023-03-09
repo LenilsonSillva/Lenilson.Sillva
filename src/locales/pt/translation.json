@@ -1,0 +1,63 @@
+{
+    "Body": {
+        "hi": "Olá,",
+        "name": "chamo-me",
+        "welcome": "Bem-vindo(a) ao meu Website.",
+        "about": "Sobre mim"
+    },
+    "Bar" : {
+        "projects" : "Projetos",
+        "contact" : "Contato",
+        "lang" : "Alterar linguagem"
+    },
+    "BodyProj" : {
+        "about" : "SOBRE MIM",
+        "text" : "Sou estudante de Ciências & Tecnologia pela Universidade Federal do Rio Grande do Norte. Uma das minhas linguagens de programação mais preferida é JavaScript, e gosto muito de desenvolver aplicações mobile e web com React Native e ReactJS. Já estudei também (embora pouco) outras linguagens, como C++, PHP, TypeScript e Python. Além disso, já utilizei banco de dados MySQL e Firebase e tenho conhecimento em HTML5 e CSS3. Aqui estão algumas imagens do que já desenvolvi. Mas você pode ver mais clicando aqui embaixo.",
+        "btnAll" : "ver todos os projetos",
+        "gratableText" : "Jogo criado com JavaScript na plataforma P5JS",
+        "emailText" : "Clone visual do aplicativo do Gmail",
+        "mensagensText" : "Aplicativo de teste com troca de mensagens",
+        "btnMore" : "Ver mais"
+    },
+    "Foot" : {
+        "dev" : "Desenvolvido por mim mesmo",
+        "call" : "Entrar em contato",
+        "info" : "Brasil, 2022"
+    },
+    "Email" : {
+        "title" : "Envie-me uma mensagem",
+        "name" : "Nome",
+        "email" : "Email",
+        "mes" : "Digite a mensagem",
+        "send" : "Enviar",
+        "alertFill" : "Preencha os campos!",
+        "alertSent" : "Mensagem enviada!",
+        "alertError" : "Erro ao enviar. Tente novamente.",
+        "alertNet" : "Verifique a conexão com a internet."
+    },
+    "Details" : {
+        "dev" : "Desenvolvedor de Software",
+        "cur" : "Ver currículo"
+    },
+    "Info" : {
+        "projects" : "PROJETOS",
+        "done" : "Projeto concluído",
+        "load" : "Projeto em andamento",
+        "disc" : "Projeto descontinuado"
+    },
+    "Proj" : {
+        "wait" : "Aguarde"
+    },
+    "Cont" : {
+        "repo" : "Acessar repositório",
+        "gratableDesc" : "Este projeto consiste em um jogo criado totalmente em JavaScript através da web utilizando a plataforma P5JS. Ele foi desenvolvido através da aula de Lógica de Programação, podendo ser encontrado no site da COLABEDUC juntamente com tanto outros jogos desenvolvidos por alunos e orientadores.",
+        "marcadoresDesc" : "Projeto desenvolvido na Faculdade nas aulas de Desenvolvimento em Dispositivos Móveis utilizando React Native. Consiste em inserir marcadores em um banco de dados e renderizar em um mapa marcadores já adicionados posteriormente.",
+        "emailDesc" : "Aplicativo desenvolvido com React Native na Faculdade nas aulas de Desenvolvimento em Dispositívos Móveis. Este App é um clone do Gmail e mostra informações de dados de usuários e emails que estão armazenados em um banco de dados.",
+        "mensagensDesc" : "Aplicativo de teste pessoal e aprendizado que consiste em trocas de mensagens entre usuários com um design único e contendo algumas opções que facilitam na conversação.",
+        "seeAbout" : "Ver sobre",
+        "about"  : "SOBRE",
+        "seeImg" : "Ver imagens",
+        "un" : "Acesso indisponível!",
+        "close" : "Clique na imagem para fechar."
+    }
+}
